@@ -1,0 +1,34 @@
+
+# Python virtual environment
+.venv/
+
+# Environment variables and credentials
+.env
+.env.*
+
+# Allow a safe example configuration file, if added later
+!.env.example
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Local editor settings
+.vscode/
+
+# Local documentation archive excluded from Git
+Documentations Recorded/
+
+# Generated analytical outputs
+reports/*.csv
+reports/*.txt
+
+# Allow selected, human-readable project documentation
+!reports/*.md
