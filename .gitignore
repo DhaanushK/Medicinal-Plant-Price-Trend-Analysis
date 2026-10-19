@@ -17,8 +17,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Raw and processed datasets
-data/raw/
-data/processed/
+data/
 
 # Local editor settings
 .vscode/
