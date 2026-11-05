@@ -1,4 +1,4 @@
-# Medicinal Plant Market Intelligence
+# Medicinal Plant Price Trend Analysis
 ### Market Price Analysis and Sourcing Insights
 
 A data analytics and business intelligence project exploring historical medicinal plant market-price records to understand price distributions, market-level differences, reporting coverage, and potential sourcing insights.
